@@ -20,8 +20,8 @@ export default function Textbook2() {
 
             {/* Right Section with Buttons (50%) */}
             <div className="right-section d-flex justify-content-center align-items-center" style={{ flex: '1 1 40%' }}>
-              <Link to="/web-dev" className="btn-custom mx-3">Web Development</Link>
-              <Link to="/app-dev" className="btn-custom mx-3">App Development</Link> 
+              <Link to="/webdevelopment" className="btn-custom mx-3">Web Development</Link>
+              <Link to="/appdevelopment" className="btn-custom mx-3">App Development</Link> 
             </div>
           </div>
         </div>
