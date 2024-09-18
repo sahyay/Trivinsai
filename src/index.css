@@ -958,6 +958,36 @@ ul li strong {
 
 
 
+/* src/components/NotFound.css */
+.notfound-container {
+  margin-top: 80px;
+  padding: 20px;
+}
+
+.notfound-title {
+  font-size: 6rem; /* Large text for 404 */
+  margin-bottom: 20px;
+}
+
+.notfound-message {
+  font-size: 1.25rem; /* Slightly larger than normal text */
+  margin-bottom: 20px;
+}
+
+@media (max-width: 576px) {
+  .notfound-title {
+    font-size: 4rem; /* Smaller text on smaller screens */
+  }
+
+  .notfound-message {
+    font-size: 1rem; /* Smaller text on smaller screens */
+  }
+
+
+}
+
+
+
 
 
 
