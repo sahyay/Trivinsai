@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import trivinsai from '../images/trivinsaiflower.jpg';
+import trivinsai from '../images/TRIVINSAIANIMATION.mp4';
 import Typed from 'typed.js';
 
 const Textbook1 = () => {
@@ -25,7 +25,16 @@ const Textbook1 = () => {
       <section className="main-section">
         <div className="content-right col-md-6">
           <div className="image-container">
-            <img src={trivinsai} alt="TrivinSai" className="section-image img-fluid" />
+            {/* Replace img with video */}
+            <video
+              src={trivinsai}
+              className="section-image img-fluid"
+              autoPlay
+              muted
+              loop
+              playsInline
+              style={{ width: '100%', height: 'auto', objectFit: 'cover' }}
+            />
           </div>
         </div>
         <div className="content-left col-md-6 ">
