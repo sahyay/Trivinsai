@@ -86,7 +86,7 @@ export default function Navbar() {
                   </li>
                   <li>
                     <a className="dropdown-item"  style={{ color: '#2563eb' }} href="tel:+91 9768979213">
-                      +91 9768979213
+                      +91 97689 79213
                     </a>
                   </li>
                   <li>

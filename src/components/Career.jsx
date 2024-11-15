@@ -53,7 +53,7 @@ export default function Career() {
               <div className="card p-4 shadow-sm rounded">
                 <p className='text-title'>How to Apply</p>
                 <p className='text-content'>
-                  If you are ready to take the next step in your career, send your resume and cover letter to <a href="mailto:careers@trivinsai.com" className='text-primary'>careers@trivinsai.com</a> We look forward to hearing from you!
+                  If you are ready to take the next step in your career, send your resume and cover letter to <a href="mailto:marketing@trivinsai.com" className='text-primary'>marketing@trivinsai.com</a> We look forward to hearing from you!
                 </p>
               </div>
             </div>

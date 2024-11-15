@@ -78,8 +78,8 @@ export default function Footer() {
           <div className="footer-grid-column">
             <div className="footer-grid-heading">Contacts</div>
             <ul className="footer-links-list">
-              <li><a href="tel:+91-9768979213" className="footer-link" style={{ color: '#2563eb' }}>+91 9768979213</a></li>
-              <li><a href="tel:+91-9324352817" className="footer-link" style={{ color: '#2563eb' }}>+91 9324352817</a></li>
+              <li><a href="tel:+91-9768979213" className="footer-link" style={{ color: '#2563eb' }}>+91 97689 79213</a></li>
+              <li><a href="tel:+91-8104880343" className="footer-link" style={{ color: '#2563eb' }}>+91 81048 80343</a></li>
               <li><a href="mailto:marketing@trivinsai.com" className="footer-link" style={{ color: '#2563eb' }}>marketing@trivinsai.com</a></li>
             </ul>
           </div>
