@@ -53,7 +53,7 @@ export default function ITProductConsultation() {
 
                 <h5 className='text-subtitle'>Get Started Today</h5>
                 <p className='text-content'>
-                  Ready to enhance your IT infrastructure and product lineup? Contact us at <a href="mailto:admin@trivinsai.com" style={{ color: '#2563eb' }} className='text-primary'>admin@trivinsai.com</a> or call us at <a href="tel:+91 9768979213" style={{ color: '#2563eb' }} className='text-primary'>+91 9768979213</a> to schedule a consultation.
+                  Ready to enhance your IT infrastructure and product lineup? Contact us at <a href="mailto:admin@trivinsai.com" style={{ color: '#2563eb' }} className='text-primary'>admin@trivinsai.com</a> or call us at <a href="tel:+91 9768979213" style={{ color: '#2563eb' }} className='text-primary'>+91 97689 79213</a> to schedule a consultation.
                 </p>
               </div>
             </div>
