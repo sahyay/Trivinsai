@@ -1,6 +1,8 @@
 import React from 'react'
 import rahul from '../images/rahul1.jpg'
-import sahil from '../images/sahil.jpg'
+// import sahil from '../images/sahil.jpg'
+import tushar from '../images/tushar.png'
+
 import devki from '../images/devki.jpeg'
 import rohan from '../images/rohan.jpg'
 // import vishal from '../images/vishal.jpg'
@@ -48,10 +50,10 @@ export default function Textbook4() {
                 Driving our technological innovations, our tech partner ensures we stay ahead in the industry. Their expertise and vision are key to our continual advancement and success in a competitive landscape.
                 </div>
                 <div className="team-avatar">
-                    <img src={sahil} alt="sahil-avatar" className="sahil avatar-img"/>
+                    <img src={tushar} alt="sahil-avatar" className="sahil avatar-img"/>
                 </div>
                 <div className="team-details">
-                    <h3 className="team-name">Sahil Phadke</h3>
+                    <h3 className="team-name">Tushar Jadhav</h3>
                     <p className="team-position">Tech Partner</p>
                 </div>
             </div>
