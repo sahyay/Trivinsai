@@ -87,8 +87,8 @@ export default function Footer() {
       </footer>
       <div className="footer-copyright">
         © 2024 - Present Trivinsai TechPackTron Solutions Private Limited. All rights reserved.
-        <p>Developed by Tushar Jadhav 
-          <a className="social-link" href="https://www.linkedin.com/in/tushar-jadhav-254a7324a/" target="_blank" rel="noopener noreferrer">
+        <p>Developed by Sahil Phadke 
+          <a className="social-link" href="https://www.linkedin.com/in/sahil-phadke/" target="_blank" rel="noopener noreferrer">
             <img src={linkedinIcon} alt="LinkedIn" className="social-icon" />
           </a>
         </p>   
