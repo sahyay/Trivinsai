@@ -33,7 +33,7 @@ export default function Footer() {
           </div>
           <p className="filler-text">"Empowering Business, Delivering Excellence"</p>
           <div className="social">
-            <a className="social-link" href="https://www.instagram.com/trivinsai_" target="_blank" rel="noopener noreferrer">
+            <a className="social-link" href="https://www.instagram.com/trivinsai" target="_blank" rel="noopener noreferrer">
               <img src={instagramIcon} alt="Instagram" className="social-icon" />
             </a>
             <a className="social-link" href="https://www.linkedin.com/company/trivinsai-techpacktron-solutions-pvt-ltd/" target="_blank" rel="noopener noreferrer">

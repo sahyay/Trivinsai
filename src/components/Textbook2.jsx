@@ -12,7 +12,7 @@ export default function Textbook2() {
           <div className="card-body d-flex flex-wrap justify-content-between align-items-center">
             {/* Left Section with Text (50%) */}
             <div className="left-section" style={{ flex: '1 1 60%' }}>
-              <p className='texttitle  fs-1 mb-3'>Additional Services </p> {/* Title in uppercase and bold */}
+              <p className='texttitle  fs-1 mb-3'>For More Details </p> {/* Title in uppercase and bold */}
               <p className='fs-6 textpara mb-3'>
                 We specialize in delivering top-tier software solutions tailored to your business needs. From web development using the MERN stack to app development with cutting-edge technologies, we are experts at providing full-cycle services that ensure seamless and efficient results.
               </p>

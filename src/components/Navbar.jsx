@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import trivinsai from '../images/trivinsaiflower1.png'; // Import the image
+import trivinsai from '../images/trivinsaiflower2txt.png'; // Import the image
 
 export default function Navbar() {
 
@@ -22,7 +22,7 @@ export default function Navbar() {
         <div className="container-fluid">
         <a className="navbar-brand" href="/" style={{ paddingLeft: '18px', paddingTop: '0', marginTop: '-5px' }}>
   <img src={trivinsai} alt="Trivinsai logo" style={{ height: '50px', marginRight: '5px' }} />
-  <b className="navbar-brand-text">Trivinsai</b>
+  {/* <b className="navbar-brand-text">Trivinsai</b> */}
 </a>
 
 

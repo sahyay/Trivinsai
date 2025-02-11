@@ -60,14 +60,14 @@ export default function Textbook4() {
            {/* card4 */}
             <div className="team-card">
                 <div className="team-text">
-                Overseeing creative projects, our artwork manager blends innovation and artistry seamlessly. Their keen eye and leadership have been pivotal in producing visually stunning and impactful designs that set us apart.
+                Overseeing creative projects, our artwork Designer blends innovation and artistry seamlessly. Their keen eye and leadership have been pivotal in producing visually stunning and impactful designs that set us apart.
                </div>
                 <div className="team-avatar">
                     <img src={rohan} alt="rohan-avatar" className="rohan avatar-img"/>
                 </div>
                 <div className="team-details">
                     <h3 className="team-name">Rohan Sharma</h3>
-                    <p className="team-position">Artwork Manager</p>
+                    <p className="team-position">Artwork Designer</p>
                 </div>
             </div>
               {/* card5*/}
