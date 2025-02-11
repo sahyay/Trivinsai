@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import trivinsai from '../images/trivinsaiflower.jpg'; // Import the image
+import trivinsai from '../images/trivinsaiflower1.png'; // Import the image
 
 export default function Navbar() {
 
