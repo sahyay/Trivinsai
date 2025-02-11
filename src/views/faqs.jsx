@@ -51,7 +51,7 @@ export default function Faqs() {
                 aria-expanded="false"
                 aria-controls={`collapse${index}`}
                 style={{
-                  color: activeIndex === index ? '#ff6900' : '#808080', 
+                  color: activeIndex === index ? '#ffb300' : '#808080', 
                   borderTop: '1px solid #e0e0e0',
                   borderBottom: '1px solid #e0e0e0',
                   padding: '20px 10px',

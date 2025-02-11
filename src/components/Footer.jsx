@@ -1,7 +1,7 @@
 // components/Footer.jsx
 import React from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import trivinsai from '../images/trivinsaiflower.jpg';
+import trivinsai from '../images/trivinsaiflower1.png';
 import instagramIcon from '../images/instagram.svg';
 import linkedinIcon from '../images/linkedin.svg';
 import facebookIcon from '../images/facebook.svg';
@@ -26,7 +26,7 @@ export default function Footer() {
       <footer className="footer">
         <div className="footer-top">
           <div className="comp-logo">
-            <a href="/" className="logolink1 logo-link">
+            <a href="/" className="logolink1  logo-link">
               <img src={trivinsai} alt="Trivinsai logo" className="trivinsaifooterlogo logo-svg" />
               Trivinsai
             </a>

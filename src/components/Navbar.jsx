@@ -68,7 +68,7 @@ export default function Navbar() {
             <ul className="navbar-nav">
               <li className="nav-item dropdown mx-5">
                 <a
-                  style={{ color: '#ff6900' }}
+                  style={{ color: '#ffb300' }}
                   className="nav-link"
                   href="/"
                   id="navbarDropdown"

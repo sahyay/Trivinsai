@@ -1,10 +1,10 @@
 import React from 'react'
-import rahul from '../images/rahul1.jpg'
-import sahil from '../images/sahil.jpg'
+import rahul from '../images/avatar.jpg'
+import sahil from '../images/avatar.jpg'
 // import tushar from '../images/tushar.png'
 
-import devki from '../images/devki.jpeg'
-import rohan from '../images/rohan.jpg'
+import devki from '../images/avatar.jpg'
+import rohan from '../images/avatar.jpg'
 // import vishal from '../images/vishal.jpg'
 
 
