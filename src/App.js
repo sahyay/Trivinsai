@@ -21,7 +21,19 @@ function App() {
     <Router>
       <div>
         <Routes>
-         
+          <Route path="/" element={<Home />} />
+          <Route path="/faq" element={<Faqs />} />
+          <Route path="/aboutus" element={<Aboutus />} />
+          <Route path="/career" element={<Career />} />
+          <Route path="/news" element={<News />} />
+          <Route path="/blog" element={<Blog />} />
+          <Route path="/webdevelopment" element={<Banner />} />
+          <Route path="/appdevelopment" element={<Banner2 />} />
+          <Route path="/itconsultation" element={<ITconsultation />} />
+          <Route path="/privacypolicy" element={<PrivacyPolicy />} />
+          <Route path="/terms" element={<Terms />} />
+          <Route path="/disclaimer" element={<Disclaimer />} />
+          <Route path="*" element={<NotFound />} /> {/* Catch-all route for 404 */}
         </Routes>
       </div>
     </Router>
