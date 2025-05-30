@@ -20,7 +20,7 @@ export default function Home() {
       <Services />
       <Textbook2 />
       <Textbook3 />
-      <Textbook4 />
+      {/* <Textbook4 /> */}
       <Textbook5 />
       <Footer />
     </div>
